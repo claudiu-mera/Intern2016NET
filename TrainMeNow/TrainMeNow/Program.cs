@@ -12,5 +12,10 @@ namespace TrainMeNow
         {
 
         }
+
+        public void B()
+        {
+            Console.WriteLine("test");
+        }
     }
 }
