@@ -8,10 +8,7 @@ namespace TrainMeNow
 {
     class Program
     {
-        static void A()
-        {
-            Console.WriteLine("CE facu Dani");
-        }
+       
         static void Main(string[] args)
         {
             Console.WriteLine("Helllo  bosulica");
